@@ -1,0 +1,12 @@
+.footer__column_content_social {
+    display: flex;
+    justify-content: flex-start;
+    right: 0px;
+    flex-direction: column;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }

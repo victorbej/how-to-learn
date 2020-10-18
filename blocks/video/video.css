@@ -1,0 +1,10 @@
+@import url('./__iframe/video__iframe.css');
+@import url('./__iframes/video__iframes.css');
+@import url('./__procrastinate/video__procrastinate.css');
+
+.video {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }

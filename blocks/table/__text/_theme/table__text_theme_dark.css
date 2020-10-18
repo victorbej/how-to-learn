@@ -1,0 +1,9 @@
+.table__text_theme_dark {
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    word-wrap: break-word;
+    width: 200px;
+    margin-bottom: 0px;
+    align-items: baseline;
+  }
