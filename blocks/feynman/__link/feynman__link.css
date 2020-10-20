@@ -1,5 +1,4 @@
 .feynman__link {
-    display: flex;
     position: absolute;
     right: 48px;
     z-index: 1;
